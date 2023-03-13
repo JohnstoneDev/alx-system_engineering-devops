@@ -1,1 +1,2 @@
-## 0x02 Shell Permissions
+## 0x02 Shell Redirections
+
